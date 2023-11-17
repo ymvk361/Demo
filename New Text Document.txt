@@ -1,4 +1,6 @@
-123
+PRACTICING GIT
+
 
 In this file i have delete both the folder
 and take one text file within it.
+
